@@ -1,6 +1,6 @@
 ### Hi, I’m Sandy!
 
-Backend Software Engineer proficient in Node.js and MongoDB, with a passion for crafting scalable solutions. Eagerly pursuing mastery in SQL databases, TypeScript, Sockets, and Nest.js to further elevate project efficiency and performance. Committed to continuous improvement, I am also learning AWS solutions including EC2, S3, RDS, and SES to harness the power of cloud computing for enhanced scalability and reliability.
+Iam a Backend Software Engineer proficient in Node.js and MongoDB, with a passion for crafting scalable solutions. Eagerly pursuing mastery in SQL databases, TypeScript, Sockets, and Nest.js to further elevate project efficiency and performance. Committed to continuous improvement, I am also learning AWS solutions including EC2, S3, RDS, and SES to harness the power of cloud computing for enhanced scalability and reliability.
 
 <!---
 - 👀 I’m interested in ...

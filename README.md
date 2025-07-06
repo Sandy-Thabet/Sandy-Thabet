@@ -1,5 +1,3 @@
-<br clear="both">
-
 <h1 align="left">Hi, I'm Sandy!</h1>
 
 ###

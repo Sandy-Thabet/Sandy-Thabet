@@ -1,10 +1,29 @@
-<h1 align="left">Hi, I'm Sandy!</h1>
+Backend Developer | Node.js • TypeScript • NestJS • PostgreSQL • AWS |
+Building scalable APIs, multi-tenant systems, and real-time applications.
 
-###
+# Hi, I'm Sandy 👋
 
-<p align="left">I'm a Backend Developer, from Cairo, Egypt.<br><br>Proficient in Node.js and MongoDB, with a passion for crafting scalable solutions. Eagerly pursuing mastery in SQL databases, TypeScript, Sockets, and Nest.js to further elevate project efficiency and performance. Committed to continuous improvement, I am also learning AWS solutions including EC2, S3, RDS, and SES to harness the power of cloud computing for enhanced scalability and reliability.</p>
+I'm a Backend Developer from Cairo, Egypt 🇪🇬, passionate about building scalable, secure, and production-ready applications.
 
-###
+💻 **Backend Technologies**
+- Node.js, TypeScript, NestJS, Express.js
+- PostgreSQL, Prisma, MongoDB, Redis
+- REST APIs, GraphQL, WebSockets, Socket.IO
+- JWT, OAuth, RBAC, Multi-tenant Architectures
+
+☁️ **Cloud & DevOps**
+- AWS (EC2, S3, SES)
+- Docker
+- Vercel & Render
+
+🚀 I have hands-on experience building systems in the **SaaS, healthcare, and e-commerce** domains, with a strong focus on clean architecture, performance, and maintainability.
+
+🌱 Currently exploring:
+- Advanced system design and distributed systems
+- Event-driven architectures and microservices
+- AWS and cloud-native solutions
+
+I enjoy solving complex backend challenges and continuously learning new technologies to build better software.
 
 <h2 align="left">I code with</h2>
 
